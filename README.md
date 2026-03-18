@@ -61,6 +61,6 @@ Key questions such as: Which products and categories drive the most revenue?, Wh
     - Profit Trends: Certain months show negative profit, highlighting potential inefficiencies  
     - Regional Insights: A few cities contribute significantly higher revenue than others  
 ## 6. Screenshot / Demo
-![Dashboard Preview](https://github.com/Sakshi-1807mrk/E-Commerce-Sales-Analysis-/blob/main/Dashboard%20Image.png)
+![Dashboard Preview](https://github.com/Sakshi-1807mrk/E-Commerce-Sales-Analysis-/blob/main/Dashboard%20_Image.png)
 Watch the Vedio : 
 https://drive.google.com/file/d/1nQyBUtAGQFi0oNWNGLDYFMY_eo4KCkt0/view?usp=drivesdk
