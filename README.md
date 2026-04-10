@@ -40,10 +40,10 @@ These tables are connected using a primary key (`orderid`) to enable integrated 
 
 Key questions such as: Which products and categories drive the most revenue?, What are the most preferred payment methods?, Which cities or states contribute the most to sales?  , Are there any loss-making periods?…cannot be easily answered without proper visualization.
 
-# •  Goal of the Dashboard 
+•  Goal of the Dashboard 
      To deliver an interactive visual tool that: Enables users to explore Provides a clear overview of sales performance, Helps identify trends in revenue and profitEnables analysis of customer behavior and regional performance, Supports business decisions using data-driven insights
      
-# •  Walkthrough of Key Visuals
+•  Walkthrough of Key Visuals
        • KPI Cards (Top Section) Displays metrics like :  
                 - Total Revenue: 438K  
                 - Total Profit: 37K  
@@ -56,7 +56,7 @@ Key questions such as: Which products and categories drive the most revenue?, Wh
       • Top Products (Bar Chart) Identifies top-performing subcategories such as printers, sarees, and bookcases.
       • Filters (Quarter & State Slicers) Allow dynamic exploration of data based on time period and region.
       
-# •  Business Impact & Insights
+•  Business Impact & Insights
     - Category Performance: Clothing is the leading category in terms of sales  
     - Customer Behavior: COD and UPI are the most preferred payment methods  
     - Profit Trends: Certain months show negative profit, highlighting potential inefficiencies  
